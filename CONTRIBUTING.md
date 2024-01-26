@@ -27,6 +27,14 @@ CasaOS-AppStore
 ├─ Apps                 # Apps Store files
 ├─ build                # Installation script for Apps Store
 └─ psd-source           # Icon thumbnail screenshot PSD Templates
+LINUXSERVER-AppStore
+├─ category-list.json   # Configuration file for category list
+├─ recommend-list.json  # Configuration file for recommended apps list
+├─ featured-apps.json   # TBD
+├─ help                 # Help script for old version app store
+├─ Apps                 # Apps Store files
+├─ build                # Installation script for Apps Store
+└─ psd-source
 ```
 
 ### A CasaOS App typically includes following files
